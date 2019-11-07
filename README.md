@@ -1,8 +1,3 @@
 # my-website
 
-making small upodate
-
-making more changes from github
-
-editing update-readme branch
-lkdsakljdsa
+readme updated on master in GitHub before rebase.
